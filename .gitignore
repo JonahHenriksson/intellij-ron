@@ -1,3 +1,4 @@
 .gradle
 build
 src/main/gen/org/jonahhenriksson/ron/language/__RONLexer.java~
+.intellijPlatform
